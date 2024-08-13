@@ -1,0 +1,922 @@
+.header .navbar-nav.me-auto.mb-2.mb-lg-0.w-100 {
+	justify-content: end;
+}
+.header {
+	background-image: url('..//image/image.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 1034px;
+	background-color: black;
+	opacity: 1;
+}
+.header .navbar-light .navbar-nav .nav-link {
+	color: #FDFDFD;
+	font-size: 16px;
+	line-height: 16px;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.icon .fa.fa-phone {
+	font-size: 21px;
+	color: white;
+	width: 40px;
+	height: 34px;
+	border-radius: 50%;
+	border: 1px solid white;
+	text-align: center;
+	padding: 5px;
+}
+.icon .fa.fa-envelope {
+	font-size: 21px;
+	color: white;
+	width: 40px;
+	height: 34px;
+	border-radius: 50%;
+	border: 1px solid white;
+	text-align: center;
+	padding: 5px;
+	margin-left: 13px;
+}
+.icon.d-flex.justify-content-center {
+	padding-left: 29px;
+}
+.master p {
+	font-size: 18px;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	text-transform: uppercase;
+}
+.master h4 {
+	font-size: 57px;
+	color: white;
+	font-weight: 600;
+	line-height: 87.42px;
+	/* font-family: 'Marcellus'; */
+	font-family: 'Manrope';
+}
+.master hr {
+	height: 1px;
+	background-color: white;
+	border: 1px solid whoite;
+	border: 0px solid white;
+	width: 75%;
+}
+.master {
+	margin-top: 3rem;
+}
+.master span {
+	font-size: 20px;
+	line-height: 32px;
+	color: #FDFDFD;
+	font-weight: 500;
+	font-family: 'Manrope';
+}
+.Nullam .btn {
+	background-color: #FFB800;
+	width: 159px;
+	height: 56px;
+	border-radius: 99px;
+	font-size: 15px;
+	line-height: 16px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	text-transform: uppercase;
+	margin-top: 1rem;
+}
+.vehicula {
+	text-align: center;
+}
+.vehicula {
+	text-align: center;
+	position: relative;
+	top: 23rem;
+	left: 8rem;
+}
+.auctor p {
+	font-size: 16px;
+	line-height: 16px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.auctor h4 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: #222222;
+	font-weight: 400;
+	font-family: 'Manrope';
+	padding-bottom: 2rem;
+}
+.health .btn {
+	background-color: #FFB800;
+	width: 299px;
+	height: 56px;
+	border-radius: 99px;
+	font-size: 20px;
+	line-height: 20px;
+	color: #000000;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.Schedule .fa.fa-star {
+	width: 50px;
+	height: 50px;
+	background-color: #FFB800;
+	border-radius: 99px;
+	text-align: center;
+	padding: 15px;
+	font-size: 20px;
+	color: white;
+}
+.holistic h4 {
+	font-size: 24px;
+	line-height: 33.6px;
+	color: #222222;
+	font-weight: 500;
+	font-family: 'Manrope';
+	padding-top: 1rem;
+}
+.holistic p {
+	font-size: 15px;
+	line-height: 23.4px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.Posuere {
+	background-color: #F8F8F8;
+	padding: 38px 4px 38px 65px;
+	margin-bottom: 2rem;
+	border-radius: 15px;
+}
+.Posuere:hover {
+	background-color: #FFE5A4;
+	border: 1px solid #FFE5A4;
+}
+.Wellness {
+	margin-top: 4rem;
+}
+.arcu .img-fluid {
+	width: 902px;
+	height: 602px;
+	object-fit: cover;
+	border-radius: 30px;
+}
+.leectus p {
+	font-size: 17px;
+	line-height: 16px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellu';
+	text-transform: uppercase;
+}
+.leectus h4 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: black;
+	font-family: 'Manrope';
+	font-weight: 400;
+}
+.leectus span {
+	font-size: 17px;
+	line-height: 25.6px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+.hendrerit h4 {
+	font-size: 48px;
+	line-height: 48px;
+	color: #222222;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.hendrerit p {
+	font-size: 17px;
+	line-height: 16px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	text-transform: uppercase;
+	padding-top: 13px;
+}
+.hendrerit {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+.session p {
+	font-size: 17px;
+	line-height: 16px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellu';
+	text-transform: uppercase;
+}
+.session h4 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: black;
+	font-family: 'Manrope';
+	font-weight: 400;
+}
+.session span {
+	font-size: 17px;
+	line-height: 25.6px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+.auctor .img-fluid {
+	width: 639px;
+	height: 380px;
+	object-fit: cover;
+	border-radius: 20px;
+}
+.Therapy p {
+	text-align: center;
+	font-size: 16px;
+	line-height: 16px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	padding-top: 10px;
+}
+.Therapy h4 {
+	font-size: 20px;
+	line-height: 28px;
+	color: #222222;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+.navigation {
+	background: #FFE5A4;
+	padding: 102px 1px 78px 0;
+	margin-top: 4rem;
+}
+.Therapy.text-center {
+	margin-top: 5rem;
+}
+.goal p {
+	font-size: 17px;
+	line-height: 16px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellu';
+	text-transform: uppercase;
+}
+.goal h4 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: black;
+	font-family: 'Manrope';
+	font-weight: 400;
+	margin-bottom: 2rem;
+}
+.experts .btn {
+	width: 209px;
+	height: 56px;
+	border-radius: 99px;
+	font-size: 20px;
+	line-height: 20px;
+	color: #000000;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	background: #ffb800;
+}
+.Compassionate .img-fluid {
+	border: 1px solid #E2E2E2;
+	border-radius: 23px;
+}
+.Compassionate h5 {
+	font-size: 24px;
+	line-height: 33.6px;
+	color: #222222;
+	font-weight: 500;
+	font-family: 'Manrope';
+	padding-top: 1rem;
+}
+.Compassionate p {
+	font-size: 12px;
+	line-height: 7.6px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.Wilkinson {
+	float: right;
+	position: relative;
+	top: -61px;
+	left: -44px;
+}
+.fusce {
+	margin-top: 4rem;
+}
+.experts p {
+	font-size: 17px;
+	line-height: 16px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Marcellu';
+	text-transform: uppercase;
+}
+.couples p {
+	font-size: 14px;
+	line-height: 22px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+.experts h4 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: #ffb800;
+	font-family: 'Manrope';
+	font-weight: 600;
+}
+.experts span {
+	font-size: 17px;
+	line-height: 25.6px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+
+.wrapper {
+  max-width: 1200px;
+  min-width: 300px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+}
+input:checked + .slider {
+  background-color: var(--color-2);
+}
+
+.decorated {
+  display: inline-block;
+  color: var(--color-1);
+  font-size: 18px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.decorated::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 80px;
+  left: -10px;
+  bottom: -47px;
+  position: absolute;
+  background-image: url("https://assets.codepen.io/9277864/underline-1.svg");
+  background-repeat: no-repeat;
+  transform: rotate(6.19rad);
+}
+
+.pricing-plan {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.plan {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 10px;
+	box-shadow: 4px 0 10px rgba(0, 0, 0, 0.4);
+	padding: 23px 14px 23px 41px;
+	min-width: 220px;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	margin-top: 2rem;
+	background-color: white;
+}
+.benefita .fa.fa-check-circle {
+	padding-top: 4px;
+	font-size: 22px;
+}.benefita .fa.fa-check-circle {
+	padding-top: 4px;
+	font-size: 22px;
+	color: #ffb800;
+}
+
+.offecthing h4 {
+	font-size: 20px;
+	line-height: 27px;
+	padding-top: 3px;
+	padding-left: 9px;
+	color: #232323;
+	font-weight: 500;
+	font-family: 'Manrope';
+}
+.larkin {
+	background-color: #222222;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	margin-top: 4rem;
+}
+.write .img-fluid {
+	width: 58px;
+	height: 58px;
+	object-fit: cover;
+}
+.price {
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+}
+.Finding {
+	background-image: url('..//image/background .png');
+	background-repeat: no-repeat;
+	background-color: black;
+	background-position: center;
+	background-size: cover;
+	height: 649px;
+}
+.plan:hover {
+	background-color: #FFE5A4;
+}
+.anxiety p {
+	font-size: 16px;
+	line-height: 16px;
+	color: white;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.comes p {
+	font-size: 14px;
+	line-height: 22.4px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+.Therapy .btn {
+	width: 249px;
+	height: 60px;
+	background-color: #FFB800;
+	border-radius: 99px;
+	font-size: 21px;
+	line-height: 20px;
+	color: #222222;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	margin-top: 2rem;
+}
+.illustrations p {
+	font-size: 15px;
+	line-height: t22.4px;
+	line-height: 22.4px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+	padding-top: 4px;
+	padding-left: 8px;
+}
+.whole {
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 50.4px;
+	font-family: 'Manrope';
+	color: #ffb800;
+}
+.cent {
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 22.4px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Manrope';
+	padding-left: 6px;
+}
+
+.button {
+  color: white;
+  text-decoration: none;
+  background-color: var(--color-1);
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding: 9px 20px;
+  border-radius: 6px;
+  box-shadow: 1px 0 4px rgba(0, 0, 0, 0.4);
+  margin-bottom: 20px;
+}
+.thinking p {
+	font-size: 14px;
+	line-height: 15.6px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	text-transform: capitalize;
+}
+hr:not([size]) {
+	height: 2px;
+	color: #ffb800;
+	background-color: #ffb800;
+}
+
+.title {
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+
+
+.best {
+  position: relative;
+}
+
+.popular {
+  position: absolute;
+  top: -65px;
+  right: -57.5px;
+  width: 100px;
+  height: 200px;
+  overflow: hidden;
+  transform: rotate(-45deg);
+}
+
+.popular p {
+  font-weight: bold;
+  font-size: 18px;
+  transform: rotate(46deg) translate(50px, -4px);
+  color: white;
+}
+
+li:last-child {
+  display: flex;
+  align-items: flex-end;
+}
+
+li:last-child::before {
+  align-self: center;
+}
+
+.label {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 4px 12px;
+  background-color: #445566;
+  color: black;
+  border-radius: 6px;
+}
+.tooltip:hover {
+  cursor: help;
+}
+.plan h2 {
+	font-size: 24px;
+	line-height: 33.6px;
+	color: black;
+	font-weight: 500;
+	font-family: 'Manrope';
+}
+.bibendum p {
+	font-size: 16px;
+	line-height: 25.6px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+	padding-top: 16px;
+}
+.viverra .btn {
+	text-transform: uppercase;
+	width: 324px;
+}
+.Individual .btn {
+	width: 164px;
+	height: 60px;
+	background-color: #FFB800;
+	border-radius: 99px;
+	font-size: 21px;
+	line-height: 20px;
+	color: #222222;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	text-transform: uppercase;
+}
+.anxiety {
+	margin-top: 8rem;
+}
+.locally h4 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: black;
+	font-family: 'Manrope';
+	font-weight: 400;
+}
+.anxiety h5 {
+	font-size: 48px;
+	line-height: 67.2px;
+	color: white;
+	font-family: 'Manrope';
+	font-weight: 600;
+	padding-bottom: 10px;
+}
+.Overcoming .btn {
+	width: 184px;
+	height: 60px;
+	background-color: white;
+	font-size: 21px;
+	line-height: 21px;
+	color: #000000;
+	font-weight: 400;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-family: 'Marcellus';
+}
+.working #email {
+	width: 59%;
+	background-color: white;
+	font-size: 13px;
+	line-height: 16.8px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+	padding: 10px 7px 10px 9px;
+	margin: 0 auto;
+}
+.happy .btn {
+	background-color: #FFB800;
+	width: 137px;
+	height: 56px;
+	border-radius: 99px;
+	font-size: 18px;
+	line-height: 18px;
+	color: #232323;
+	font-weight: 400;
+	font-family: 'Marcellus';
+	margin-left: 5rem;
+	margin-top: 1rem;
+}
+.footer {
+	background-color: #FFE5A4;
+	padding: 33px;
+}
+.Newsletter {
+	
+	background-color: #FFE5A4;
+}
+.working h4 {
+	font-size: 20px;
+	line-height: 28px;
+	color: #222222;
+	font-weight: 500;
+	font-family: 'Manrope';
+	text-align: center;
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+}
+.working p {
+	font-size: 16px;
+	text-align: center;
+	line-height: 25.6px;
+	color: #535252;
+	font-weight: 400;
+	font-family: 'Manrope';
+}
+.anxiety span {
+	font-size: 17px;
+	line-height: 25.6px;
+	color: white;
+	font-weight: 500;
+	font-family: 'Manrope';
+	padding-top: 21px;
+}
+
+.Journey {
+	width: 32px;
+	height: 32px;
+	background-color: #FFB800;
+	border-radius: 100px;
+	text-align: center;
+	padding: 3px;
+	color: white;
+	/* margin: 2rem; */
+	margin: 3px;
+}
+@media (max-width: 1362px) {
+	.holistic p {
+		font-size: 14px;
+	}
+}
+@media (max-width: 990px) {
+	.justify-content-center {
+		justify-content: start !important;
+	}
+	.icon.d-flex.justify-content-center {
+		padding-left: 0px;
+	}
+	.master h4 br {
+		display: none;
+	}
+	.master h4 {
+		font-size: 42px;
+		line-height: 60.42px;	
+	}
+	.master span {
+		font-size: 19px;
+		line-height: 32px;
+	}
+	.master span br {
+		display: none;
+	}
+	.auctor h4 {
+		font-size: 32px;
+		line-height: 54.2px;
+	}
+	.Posuere {
+		padding: 38px 4px 38px 36px;
+	}
+	.leectus h4 {
+		font-size: 34px;
+		line-height: 44.2px;
+	}
+	.leectus span br {
+		display: none;
+	}
+	.leectus span {
+		font-size: 16px;
+		line-height: 25.6px;
+	}
+	.arcu .img-fluid {
+		height: 512px;
+	}
+	.session span br {
+		display: none;
+	}
+	.goal h4 {
+		font-size: 29px;
+		line-height: 46.2px;
+	}
+	.experts span {
+		font-size: 15px;
+	}
+	.locally h4 {
+		font-size: 38px;
+		line-height: 45.2px;
+		color: black;
+		font-family: 'Manrope';
+		font-weight: 400;
+	}
+	.working h4 {
+		font-size: 17px;
+	}
+	.working #email {
+		width: 100%;
+	}
+	.happy .btn {
+		margin-left: 0rem;
+	}
+	.bibendum p br {
+		display: none;
+	}
+}
+@media (max-width: 760px) {
+
+	.vehicula {
+		top: 7rem;
+		left: -7rem;
+	}
+	.auctor h4 br {
+		display: none;
+	}
+	.leectus {
+		margin-top: 2rem;
+	}
+	.navigation {
+		padding: 32px 1px 68px 0;
+	}
+	.auctor {
+		margin-top: 2rem;
+	}
+	.goal h4 br {
+		display: none;
+	}
+	.goal h4 {
+		font-size: 21px;
+		line-height: 35.2px;
+	}
+	.Wilkinson {
+		left: 0px;
+	}
+	.experts h4 {
+		font-size: 39px;
+	}
+	.experts span br {
+		display: none;
+	}
+	.locally h4 {
+		font-size: 21px;
+		line-height: 45.2px;
+	}
+	.Individual .btn {
+		width: 153px;
+		height: 49px;
+		font-size: 20px;
+		line-height: 20px;
+	}
+	.bibendum {
+		padding-top: 1rem;
+	}
+	.anxiety span br {
+		display: none;
+	}
+	.anxiety h5 {
+		font-size: 38px;
+		line-height: 47.2px;
+	}
+}
+@media (max-width: 479px) {
+	.vehicula {
+		
+		left: 0rem;
+	}
+	.auctor {
+		margin-top: 1rem;
+		text-align: center;
+	}
+	.health {
+		text-align: center;
+	}
+	.Posuere {
+		margin-top: 2rem;
+	}
+	.session {
+		text-align: center;
+	}
+	.session h4 {
+		font-size: 34px;
+		line-height: 42.2px;
+	}
+	.hendrerit {
+		text-align: center;
+	}
+	.leectus {
+		text-align: center;
+	}
+	.goal {
+		text-align: center;
+	}
+	.fusce {
+		margin-top: 2rem;
+	}
+	.Compassionate {
+		text-align: center;
+		margin-top: 2rem;
+	}
+	.experts h4 {
+		line-height: 36.2px;
+	}
+	.experts h4 {
+		font-size: 27px;
+	}
+	.comes p br {
+		display: none;
+	}
+	.locally h4 {
+		line-height: 10.2px;
+		text-align: center;
+	}
+	.couples p {
+		text-align: center;
+	}
+	.happy {
+		text-align: center;
+	}
+	.queries {
+		justify-content: center;
+	}
+	.bibendum {
+		text-align: center;
+	}
+}
+
+
+	
+
+
